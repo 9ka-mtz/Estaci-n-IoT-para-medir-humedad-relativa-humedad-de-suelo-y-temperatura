@@ -8,7 +8,7 @@ float T;
 DHT dht(DHTpin, DHTTYPE); 
 
 const char* ssid     = "Hinojosa";
-const char* password = "7HN.J3SA";
+const char* password = "*********";
 
 const char* resource = "https://maker.ifttt.com/trigger/eventoRE/json/with/key/lCzCjQ1cf2zr1oc6C-NoLUyg8fVUnlO-U0oRRr07t_5";
 const char* server = "maker.ifttt.com";
